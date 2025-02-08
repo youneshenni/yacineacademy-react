@@ -27,3 +27,4 @@ dist-ssr
 yarn.lock
 .yarn
 node_modules
+.yarnrc.yml
